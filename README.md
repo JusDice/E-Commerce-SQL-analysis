@@ -39,4 +39,4 @@ The project is designed to reflect **real-world** product analytics work, with a
 
 ## Conclusion
 
-The analysis shows that the business should focus not only on increasing revenue, but also on improving order quality. Instagram, Google, SAVE10, Printer and Chair are strong revenue drivers, while high return and cancellation rates indicate operational issues that should be investigated.
+The analysis shows that the business should focus not only on increasing revenue, but also on improving overall order quality.Instagram, Google, SAVE10, Printer and Chair are strong revenue drivers, while high return and cancellation rates indicate operational issues that should be investigated.
